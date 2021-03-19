@@ -8,7 +8,7 @@ current: features
 	<div class="col-md-6 col-lg-5 p-5 text-center text-md-left">
 		<h1 class="display-2 pt-5 pb-3">Paycheck stability for everyone</h1>
 		<p>Extra money when your pay is low, interest-free. Intelligent savings when your pay is high. Stop worrying about payday and start getting ahead.</p>
-		<a class="btn btn-primary py-3 px-4" href="">Get Started</a>
+		<a class="btn btn-primary py-3 px-4" href="{{ site.url }}/signup">Get Started</a>
 	</div>
 	<div class="col-md-6 col-lg-5 px-5 py-md-5">
 		<img class="pt-5" src="assets/images/hero.svg" width="100%;">
