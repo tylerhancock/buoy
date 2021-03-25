@@ -6,8 +6,8 @@ current: features
 
 <section class="d-md-flex align-items-center justify-content-center py-5">
 	<div class="col-md-6 col-lg-5 p-5 text-center text-md-left">
-		<h1 class="display-2 pt-5 pb-3">Paycheck stability for everyone</h1>
-		<p>Extra money when your pay is low, interest-free. Intelligent savings when your pay is high. Stop worrying about payday and start getting ahead.</p>
+		<h1 class="display-2 pt-5 pb-3">Say goodbye to income instability</h1>
+		<p>Extra money when your pay is low, interest-free. Intelligent savings when your pay is high. Buoy doesn’t just help you stay afloat- we help you thrive.</p>
 		<a class="btn btn-primary py-3 px-4" href="{{ site.url }}/signup">Get Started</a>
 	</div>
 	<div class="col-md-6 col-lg-5 px-5 py-md-5">
@@ -24,8 +24,8 @@ current: features
 
 <section class="d-md-flex align-items-center justify-content-center py-5" id="features">
 	<div class="col-md-6 col-lg-5 p-5 text-center text-md-left">
-		<h2 class="display-4 pb-3">Always get your average pay</h2>
-		<p>We calculate how much you make on average. With Buoy, you can count on always getting at least your average pay, every payday. So you’ll always know your bills are covered. Avoid late fees, overdraft fees, and high-interest loans.</p>
+		<h2 class="display-4 pb-3">Start smoothing out your paychecks</h2>
+		<p>Take home the same amount of money every month even when you earn less. Avoid late fees, overdraft fees, and high-interest loans.</p>
 	</div>
 	<div class="col-md-6 col-lg-5 px-5 py-md-5">
 		<img src="assets/images/average-savings.png" width="100%;">
@@ -35,7 +35,7 @@ current: features
 <section class="d-md-flex align-items-center justify-content-center py-5">
 	<div class="col-md-6 col-lg-5 order-md-2 p-5 text-center text-md-left">
 		<h2 class="display-4 pb-3">Start building your credit score</h2>
-		<p>Every Buoy member automatically builds credit. The longer you’re a Buoy member, the more credit history you build up.</p>
+		<p>Buoy helps you fix bad credit and improve your credit score to help boost your borrowing potential and lower interest rates.</p>
 	</div>
 	<div class="col-md-6 col-lg-5 order-md-1 px-5 py-md-5">
 		<img src="assets/images/credit-score.png" width="100%;">
@@ -45,7 +45,7 @@ current: features
 <section class="d-md-flex align-items-center justify-content-center py-5">
 	<div class="col-md-6 col-lg-5 p-5 text-center text-md-left">
 		<h2 class="display-4 pb-3">Get paid on your own terms</h2>
-		<p>Say goodbye to high-interest payday loans. Buoy gives you access to your paycheck when you want it. It's an advance on your average salary, so we know you're good for it.</p>
+		<p>We give you access to your paycheck when you want it. It's like an advance on your average salary, so we know you're good for it.</p>
 	</div>
 	<div class="col-md-6 col-lg-5 px-5 py-md-5">
 		<img src="assets/images/demand-pay.png" width="100%;">
